@@ -4,7 +4,7 @@
 **Course:** DSAI501 - How To Use Big-Data and AI to Make Better Business Decisions (ML and Data Science)
 **Professor:** Hunter Yan
 **Problem statement:** Option C - Identifying Patterns in Global E-Commerce Sales
-**Group members:** `Lars Nicolas Godoy (BMT28046)` · `Prem Jasani (BMT28115)` · `Radhika Gupta (BMT28063)` · `Rishi (BMT28067)`
+**Group members:** `Lars Godoy (BMT28046)` · `Prem Jasani (BMT28115)` · `Radhika Gupta (BMT28063)` · `Rishi (BMT28067)`
 
 ---
 
