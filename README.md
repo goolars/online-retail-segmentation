@@ -73,10 +73,6 @@ Clean at scale (documented waterfall) → RFM features on a fixed snapshot date 
 (distance must not be dominated by Monetary) → choose k with the elbow method, confirmed by silhouette → K-Means
 (k=4) → profile and name segments → translate into actions. Random seed is fixed (42) throughout for reproducibility.
 
-## Use of generative AI
-Generative AI tools were used to assist with code structuring, visualization styling, and drafting/editing of the
-report prose. All analytical decisions, interpretations, and the final text were reviewed and are the responsibility
-of the group. See the Assignment Cover Page for the full declaration and prompt log.
 
 ## Data source and licence
 *Online Retail II*, Daqing Chen, UCI Machine Learning Repository, 2012. Licence: CC BY 4.0.
