@@ -1,7 +1,7 @@
 # Identifying Patterns in Global E-Commerce Sales
 ### Customer segmentation of a UK online retailer with RFM and K-Means
 
-**Course:** DSAI501 - ML and Data Science
+**Course:** DSAI501 - Machine Learning and Data Science
 
 ---
 
