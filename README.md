@@ -1,11 +1,8 @@
 # Identifying Patterns in Global E-Commerce Sales
 ### Customer segmentation of a UK online retailer with RFM and K-Means
 
-**Course:** DSAI501 - How To Use Big-Data and AI to Make Better Business Decisions (ML and Data Science)
-**Professor:** Hunter Yan
+**Course:** DSAI501 - ML and Data Science
 **Problem statement:** Option C - Identifying Patterns in Global E-Commerce Sales
-**Group members:** `Lars Godoy (BMT28046)` · `Prem Jasani (BMT28115)` · `Radhika Gupta (BMT28063)` · `Rishi (BMT28067)`
-
 ---
 
 ## What this project does
