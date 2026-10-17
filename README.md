@@ -2,7 +2,7 @@
 ### Customer segmentation of a UK online retailer with RFM and K-Means
 
 **Course:** DSAI501 - ML and Data Science
-**Problem statement:** Option C - Identifying Patterns in Global E-Commerce Sales
+
 ---
 
 ## What this project does
